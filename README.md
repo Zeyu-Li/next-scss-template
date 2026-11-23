@@ -4,11 +4,10 @@ Also includes scss (updated using https://www.youtube.com/watch?v=C1-hmauMht0)
 
 ## Getting Started
 
-First, run the development server:
+Requires Node.js 20.9 or later. Install dependencies and run the development server:
 
 ```bash
-npm run dev
-# or
+yarn install
 yarn dev
 ```
 
